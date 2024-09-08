@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\migrations\\20240908093528_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:migrations\\20240908093528_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CompanyNameDataBase/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\testdatasqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:testdatasqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\data\\appdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:data\\appdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\wwwroot\\js\\treedata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:wwwroot\\js\\treedata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\data\\employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:data\\employeedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\viewmodels\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:viewmodels\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\testdatasqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:testdatasqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|c:\\users\\khon.iv\\source\\repos\\employeetree\\testdatasqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{7BC1D175-EFE9-4E3E-941B-D16A13384DE0}|EmployeeTree.csproj|solutionrelative:testdatasqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240908093528_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Migrations\\20240908093528_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240908093528_Initial.cs",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Migrations\\20240908093528_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240908093528_Initial.cs",
+              "ViewState": "AgIAAAIAAACAzMzMzMwHwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:35:29.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContent.cs",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Data\\AppDBContent.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContent.cs",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Data\\AppDBContent.cs",
+              "RelativeToolTip": "Data\\AppDBContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:58:05.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAPTMzMzMHwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:50:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Employees [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CompanyNameDataBase/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-08T09:22:40.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDataSqlScript.sql ",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\TestDataSqlScript.sql",
+              "RelativeDocumentMoniker": "TestDataSqlScript.sql",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\TestDataSqlScript.sql",
+              "RelativeToolTip": "TestDataSqlScript.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-08T09:40:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T08:57:33.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T09:00:54.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T09:37:36.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "treeData.js",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\wwwroot\\js\\treeData.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\treeData.js",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\wwwroot\\js\\treeData.js",
+              "RelativeToolTip": "wwwroot\\js\\treeData.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T09:37:14.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDB.cs",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Data\\EmployeeDB.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeDB.cs",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Data\\EmployeeDB.cs",
+              "RelativeToolTip": "Data\\EmployeeDB.cs",
+              "ViewState": "AgIAAAoAAABgMzMzM/MlwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:58:20.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T09:46:38.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T08:56:52.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF4AAACAmZmZmVkqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T08:56:48.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T08:56:28.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Data\\Models\\Employee.cs",
+              "RelativeToolTip": "Data\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:05:43.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAgZ2ZmZuYswBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:00:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\ViewModels\\Node.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Node.cs",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\ViewModels\\Node.cs",
+              "RelativeToolTip": "ViewModels\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:07:22.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Khon.IV\\source\\repos\\EmployeeTree\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-08T09:29:32.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

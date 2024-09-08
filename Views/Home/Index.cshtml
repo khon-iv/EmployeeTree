@@ -1,0 +1,119 @@
+<div class="container">
+    <div id="tree">
+        <div class="d-md-block">
+            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#searchModal">
+                Поиск сотрудника
+            </button>
+            <div class="modal fade" id="searchModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="staticBackdropLabel">Поиск сотрудника</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Закрыть"></button>
+                        </div>
+                        <div class="modal-body">
+                            <form id="employeeInfoForm" class="form-floating">
+                                <div class="mb-3">
+                                    <label for="employeeId">Введите id сотрудника</label>
+                                    <input name="id" type="text" class="form-control" id="employeeId">
+                                </div>
+                                <div class="mb-3">
+                                    <textarea readonly name="info" type="text" class="form-control" rows="4"></textarea>
+                                </div>
+                                <button type="button" class="btn btn-primary mb-2" onclick="getEmployeeInfo()" id="employeeInfoButton">Поиск</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#hireModal">
+                Добавить сотрудника
+            </button>
+            <div class="modal fade" id="hireModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="staticBackdropLabel">Добавить сотрудника</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Закрыть"></button>
+                        </div>
+                        <div class="modal-body">
+                            <form id ="hireForm">
+                                <div class="mb-3">
+                                    <label for="fullNameInput" class="form-label">ФИО нового сотрудника</label>
+                                    <input required name="fullName" type="text" class="form-control" id="fullNameInput">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="positionInput" class="form-label">Должность нового сотрудника</label>
+                                    <input required name="position" type="text" class="form-control" id="positionInput">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="headIdInput" class="form-label">id руководителя нового сотрудника</label>
+                                    <input required name="headId" type="text" class="form-control" id="headIdInput">
+                                </div>
+                                <button type="button" class="btn btn-primary" form="hireForm" onclick="addNode()" id="hireButton">Отправить</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#fireModal">
+                Уволить сотрудника
+            </button>
+            <div class="modal fade" id="fireModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="staticBackdropLabel">Уволить сотрудника</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Закрыть"></button>
+                        </div>
+                        <div class="modal-body">
+                            <form id="fireForm">
+                                <div class="mb-3">
+                                    <label for="idInput" class="form-label">Введите id увольняемого сотрудника</label>
+                                    <input name="id" type="text" class="form-control" id="idInput" >
+                                </div>
+                                <div class="mb-3">
+                                    <label for="newHeadId" class="form-label">Введите id нового руководителя</label>
+                                    <input name="newHeadId" type="text" class="form-control" id="newHeadId">
+                                    <div class="form-text">Новым руководителем может быть только подчиненный</div>
+                                </div>
+                                <button type="button" class="btn btn-primary" form="fireForm" onclick="fireEmployee()" id="fireButton">Уволить</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#deleteModal">
+                Удалить сотрудника
+            </button>
+            <div class="modal fade" id="deleteModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5">Удалить сотрудника</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Закрыть"></button>
+                        </div>
+                        <div class="modal-body">
+                            <form id="deleteForm">
+                                <div class="mb-3">
+                                    <label for="idInput" class="form-label">Введите id удаляемого сотрудника</label>
+                                    <input name="id" type="text" class="form-control" id="idInput">
+                                    <div class="form-text">Удалить можно только уволенного сотрудника</div>
+                                </div>
+                                <button type="button" class="btn btn-primary" form="deleteForm" onclick="deleteEmployee()" id="deleteButton">Удалить</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="js/treeData.js"></script>
+        <script>
+            getData();
+        </script>
+    </div>
+</div>
